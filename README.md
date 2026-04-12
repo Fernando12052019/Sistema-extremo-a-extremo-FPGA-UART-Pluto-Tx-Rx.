@@ -15,6 +15,5 @@ Análisis de fallas y ajustes realizados:
 - Decisión: Definir el tema del proyecto y la estructura de trabajo en equipo  
 - Justificación: Permite una mejor organización y avance progresivo durante el desarrollo
 
- Estado actual vs cronograma:
-- Planificado: Formar el grupo y definir el tema del proyecto  
-- Actual: Grupo conformado y planificación inicial completada ✅
+ Estado actual:
+- Planificado: Formar el grupo y definir el tema del proyecto realizando una planificación inical completa.
