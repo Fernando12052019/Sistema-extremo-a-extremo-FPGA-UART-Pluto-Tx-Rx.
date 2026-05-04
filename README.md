@@ -39,6 +39,57 @@ Decisiones tomadas:
 * Profundizar en la investigación teórica antes de iniciar la implementación.
 * Dividir el proyecto en etapas: comunicación UART, configuración de FPGA y pruebas de transmisión/recepción.
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7
+
+Semana 3 (Fecha: 22 - 26 de abril de 2026)
+
+Actividades realizadas:
+
+* Se inició el estudio práctico del protocolo UART y su funcionamiento en sistemas digitales.
+* Se revisaron herramientas de desarrollo para FPGA y su entorno de programación.
+* Se investigó la configuración básica del módulo Pluto SDR para transmisión y recepción de señales.
+* Se realizaron pruebas iniciales de comunicación a nivel teórico mediante diagramas de bloques.
+
+Problemas encontrados:
+
+* Dificultad en la comprensión de la configuración inicial del entorno de desarrollo para FPGA.
+* Limitaciones en el acceso a ejemplos prácticos claros para la integración con Pluto SDR.
+
+Decisiones tomadas:
+
+* Enfocar el trabajo en dominar primero la comunicación UART antes de integrar todos los componentes.
+* Buscar documentación adicional y tutoriales más prácticos para facilitar el aprendizaje.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Semana 4 (Fecha: 29 de abril - 3 de mayo de 2026)
+
+Actividades realizadas:
+
+* Se avanzó en la comprensión de la transmisión y recepción de datos (Tx/Rx) en UART.
+* Se realizaron pruebas básicas de simulación del comportamiento de la comunicación.
+* Se organizó mejor la estructura del proyecto y los próximos pasos a seguir.
+* Se investigaron posibles herramientas de simulación y depuración.
+
+Problemas encontrados:
+
+* Errores iniciales en la interpretación de señales Tx y Rx.
+* Dificultad para validar resultados sin implementación física completa.
+
+Decisiones tomadas:
+
+* Continuar con simulaciones antes de pasar a pruebas físicas.
+* Refinar la comprensión de las señales digitales involucradas en UART.
+
+
+
+
+
+
+
+
+
 Estado actual:
 
 * En proceso de investigación y preparación técnica para la implementación del sistema.
