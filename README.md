@@ -82,15 +82,32 @@ Decisiones tomadas:
 * Continuar con simulaciones antes de pasar a pruebas físicas.
 * Refinar la comprensión de las señales digitales involucradas en UART.
 
-
-
-
-
-
-
-
-
 Estado actual:
 
 * En proceso de investigación y preparación técnica para la implementación del sistema.
 * Se tiene una mejor comprensión general del funcionamiento del proyecto.
+
+ Semana 5 (Fecha: 6 - 10 de mayo de 2026)
+
+Actividades realizadas:
+
+* Se inició la etapa de implementación del sistema de comunicación UART dentro del entorno de desarrollo para FPGA.
+* Se realizó la configuración inicial de los módulos de transmisión (Tx) y recepción (Rx).
+* Se ejecutaron pruebas preliminares para verificar el envío y recepción de datos entre bloques del sistema.
+* Se documentaron los primeros resultados obtenidos durante la implementación.
+
+Problemas encontrados:
+
+* Se presentaron errores iniciales en la sincronización de transmisión y recepción de datos.
+* Fue necesario revisar parámetros de configuración para mejorar la comunicación del sistema.
+
+Decisiones tomadas:
+
+* Ajustar los parámetros del sistema UART para optimizar la transmisión de datos.
+* Continuar con pruebas incrementales para detectar y corregir errores de manera progresiva.
+
+Estado actual:
+
+* Implementación inicial completada satisfactoriamente.
+* El sistema presenta avances funcionales en comunicación básica y continúa en fase de pruebas.
+
