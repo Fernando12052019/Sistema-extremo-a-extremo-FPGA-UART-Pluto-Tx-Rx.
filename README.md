@@ -111,3 +111,146 @@ Estado actual:
 * Implementación inicial completada satisfactoriamente.
 * El sistema presenta avances funcionales en comunicación básica y continúa en fase de pruebas.
 
+* {Semana 6 (Fecha: 11 - 15 de mayo de 2026)}
+
+{Actividades realizadas:}
+
+* Se continuó con el desarrollo del módulo transmisor UART.
+* Se implementó el módulo receptor UART.
+* Se realizaron simulaciones funcionales para validar ambos módulos.
+* Se verificó la correcta detección de bits de inicio y parada.
+
+Problemas encontrados:}
+
+* Se detectaron errores durante la recepción de algunos datos.
+* Fue necesario ajustar la lógica de sincronización del receptor.
+
+{Decisiones tomadas:}
+
+* Modificar la lógica de muestreo del receptor UART.
+* Continuar validando el sistema mediante simulaciones.
+
+{Estado actual:}
+
+* Los módulos Tx y Rx funcionan de forma independiente.
+* Continúan las pruebas de integración.
+
+{Semana 7 (Fecha: 18 - 22 de mayo de 2026)}
+
+{Actividades realizadas:}
+
+* Se integraron los módulos transmisor y receptor.
+* Se realizaron pruebas internas de comunicación.
+* Se verificó el intercambio correcto de información.
+* Se registraron los resultados obtenidos.
+
+{Problemas encontrados:}
+
+* Se detectaron pequeños desfases durante la comunicación.
+* Fue necesario ajustar señales de control.
+
+{Decisiones tomadas:}
+
+* Optimizar la sincronización entre módulos.
+* Mantener pruebas continuas del sistema.
+
+{Estado actual:}
+
+* La comunicación UART básica funciona correctamente.
+* El sistema continúa en optimización.
+
+{Semana 8 (Fecha: 25 - 29 de mayo de 2026)}
+
+{Actividades realizadas:}
+
+* Se optimizó el código desarrollado en VHDL.
+* Se eliminaron advertencias de síntesis.
+* Se ejecutaron nuevas simulaciones.
+* Se verificó el rendimiento general del sistema.
+
+{Problemas encontrados:}
+
+* Persistieron algunas advertencias durante la síntesis.
+* Fue necesario reorganizar parte del código.
+
+\textbf{Decisiones tomadas:}
+
+* Simplificar la lógica implementada.
+* Mantener una estructura modular del diseño.
+
+{Estado actual:}
+
+* El código presenta un mejor desempeño.
+* La implementación continúa avanzando.
+
+{Semana 9 (Fecha: 1 - 5 de junio de 2026)}
+
+{Actividades realizadas:}
+
+* Se programó la FPGA con el diseño desarrollado.
+* Se configuró el archivo de restricciones (XDC).
+* Se realizaron pruebas en hardware.
+* Se verificó la correcta asignación de pines.
+
+{Problemas encontrados:}
+
+* Se detectaron errores en la configuración de algunos pines.
+* Fue necesario revisar el archivo de restricciones.
+
+{Decisiones tomadas:}
+
+* Corregir la asignación de pines.
+* Repetir las pruebas sobre la FPGA.
+
+{Estado actual:}
+
+* La FPGA ejecuta correctamente el diseño implementado.
+* El sistema responde de forma estable.
+
+  {Semana 10 (Fecha: 8 - 12 de junio de 2026)}
+
+{Actividades realizadas:}
+
+* Se realizaron pruebas de comunicación con el puerto serial.
+* Se verificó el envío y recepción de caracteres.
+* Se documentaron los resultados obtenidos.
+* Se evaluó la estabilidad de la comunicación.
+
+{Problemas encontrados:}
+
+* Se observaron pérdidas ocasionales de información.
+* Fue necesario revisar la velocidad de transmisión.
+
+{Decisiones tomadas:}
+
+* Ajustar el Baud Rate utilizado.
+* Repetir las pruebas bajo diferentes condiciones.
+
+{Estado actual:}
+
+* La comunicación presenta un funcionamiento estable.
+* Continúan las pruebas de validación.
+
+
+{Semana 11 (Fecha: 15 - 19 de junio de 2026)}
+
+{Actividades realizadas:}
+
+* Se evaluó el comportamiento del sistema con diferentes velocidades.
+* Se registraron los tiempos de respuesta.
+* Se compararon los resultados obtenidos.
+* Se verificó la estabilidad del sistema.
+
+{Problemas encontrados:}
+
+* Se presentaron pérdidas de datos a velocidades elevadas.
+* Fue necesario limitar algunos parámetros de operación.
+{Decisiones tomadas:}
+
+* Mantener una velocidad estable para garantizar la comunicación.
+* Continuar realizando pruebas de rendimiento.
+
+{Estado actual:}
+
+* El sistema presenta un funcionamiento confiable.
+* Se continúa optimizando el desempeño.
